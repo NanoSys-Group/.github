@@ -27,5 +27,5 @@ DFTB+;
 Nanosys Group
 </h3>
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/80724933?v=4" width=115><br><sub>Ricardo Paupitz</sub>](https://github.com/ricardopaupitz) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/145989842?v=4" width=115><br><sub>Jessica Fernandes</sub>](https://github.com/JessicaOliFernandes) |   |
-| :---: | :---: | :---: |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/80724933?v=4" width=115><br><sub>Ricardo Paupitz</sub>](https://github.com/ricardopaupitz) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/145989842?v=4" width=115><br><sub>Jessica Fernandes</sub>](https://github.com/JessicaOliFernandes) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/86626558?v=4" width=115><br><sub>Gabriel Batista</sub>](https://github.com/hgabrielb) |
+| :---: | :---: | :---: | 
